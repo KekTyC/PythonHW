@@ -1,0 +1,2 @@
+[console_scripts]
+homeproject = homeproject.main:main
